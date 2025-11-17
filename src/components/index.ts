@@ -1,0 +1,9 @@
+export { Header } from './Header';
+export { Hero } from './Hero';
+export { SearchBar } from './SearchBar';
+export { CategoryFilter } from './CategoryFilter';
+export { PriceFilter } from './PriceFilter';
+export { BikeCard } from './BikeCard';
+export { BikeGrid } from './BikeGrid';
+export { Cart } from './Cart';
+export { Footer } from './Footer';
